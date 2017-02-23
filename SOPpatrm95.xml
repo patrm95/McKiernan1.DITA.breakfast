@@ -2,19 +2,36 @@
 <sop>
     <intro></intro>
     <sessions
+    <intro>This site will guide you through the steps for registering and paying for summer and Winter
+    Sessions at Virginia Tech. Both sessions offer in class, online, blended and study abroad trips
+    
+    </intro>
+    <sessions>
         <session>
             <url></url>
             <sessiontitle></sessiontitle>
+            <url>summer.html</url>
+            <sessiontitle>Virginia Tech Summer Session</sessiontitle>
             <welcome></welcome>
             <task>
+            <tasks>
                 <task>
                     <tasktitle></tasktitle>
+                    <tasktitle>Applying for Summer classes</tasktitle>
                     <staging></staging>
                     <ingredients>
                         <ingredient>
                             <item></item>
+                            <item>a computer</item>
                         </ingredient>
                         <ingredient>
                             <item>A cell phone</item>
                         </ingredient>
 </sop>
+                    </ingredients>  
+                    <steps></steps>
+                    <summary></summary>
+                </task>
+            </tasks>
+        </session>
+        <session>
