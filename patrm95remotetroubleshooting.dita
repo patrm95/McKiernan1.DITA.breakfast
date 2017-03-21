@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_khp_ppv_hz">
+  <title>troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>The Lightbulb is unscrewed</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>Stripped screw</title>
+        <p></p>
+      </cause>
+      <cause><title>The ridges on the light bulb are worn down so it wont screw in</title></cause>
+      <cause><title>a mouse pushed it out</title></cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>buy a new light bulb</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>
