@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_btn_r3t_lz">
+    <title>Corn Beef Hash Recipe </title>
+    <shortdesc>Corn Beef Hash is a delicous recipe that only takes 45 minutes to prepare</shortdesc>
+    <taskbody>
+        <context>This recipe requires little tools, just a convetional oven with a stove top, measuring cups, as well as pots and silverware
+            <p>Ingredients</p> <image href= "http://goodtoknow.media.ipcdigital.co.uk/111/00000602e/d53e_orh412w625/Corned-Beef-Hash.jpg"></image>
+            <ul>
+                <li>2 tablespoons vegetable oil</li>
+                <li>8 ounces cooked corned beef, diced</li>
+                <li>1 white onion, finely chopped</li>
+                <li>1 bell pepper, finely chopped</li>
+                <li>2 medium baking potatoes, peeled and shredded (about 2 cups)</li>
+                <li>4 tablespoons unsalted butter</li>
+                <li>4 large eggs</li>
+                <li>Kosher salt and freshly ground pepper</li>
+                <li>4 slices cheddar cheese (about 2 ounces)</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+         <steps>
+            <step>
+                <cmd>Heat the oil in a medium skillet over high heat.</cmd>
+            </step>
+            <step>
+                <cmd>Add the corned beef and cook, stirring with a wooden spoon, until it
+                    releases some fat and browns slightly, about 3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in the onion, bell pepper and potatoes and cook, undisturbed, until
+                    brown and crisp on the bottom, about 6 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Continue cooking, turning the hash as it browns evenly, about 15 more
+                    minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Meanwhile, heat the butter in a nonstick skillet over medium-high
+                    heat.</cmd>
+            </step>
+            <step>
+                <cmd>Fry the eggs sunny-side up or over easy; season with salt and pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Place the cheese slices on top of the hash, reduce the heat and let sit
+                    until the cheese melts, about 1 minute.</cmd>
+            </step>
+            <step>
+                <cmd>To serve, top each portion of hash with a fried egg.</cmd>
+            </step>
+         </steps>
+    </taskbody>
+</task>

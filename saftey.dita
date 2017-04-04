@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nhq_g35_lz">
+    <title>Saftey Instruction</title>
+    <shortdesc>Like with all cooking, there are potential hazzards</shortdesc>
+    <taskbody>
+        <context>This set of saftey tips will make sure there are no unwanted injuries <p>Saftey
+                Steps</p>
+            <image href="https://d30y9cdsu7xlg0.cloudfront.net/png/1483-200.png"/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Avoid touching the surface of heated elements, such as stove tops, boiling water, hot pans and more</cmd>
+            </step>
+            <step>
+                <cmd>Cut and peel away from your body, all motions should move outwards away from any part of your body</cmd>
+            </step>
+            <step>
+                <cmd>only use fresh ingredients, avoid using expired, or unwashed foods</cmd>
+            </step>
+            <step>
+                <cmd>clean all utensils before using them</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

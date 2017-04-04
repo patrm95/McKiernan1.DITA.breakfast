@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_y4x_325_lz">
+    <title>Side dishes</title>
+    <shortdesc>Breakfast isn't complete without a delicous side dish</shortdesc>
+    <taskbody>
+        <context>Each of these sides can compliment any of the recipes above <p>Corn Beef Hash
+                sides</p>
+            <ul>
+                <li>Whole Wheat Toast w/ butter and/or jelly</li>
+                <li>Bacon</li>
+                <li>Fruit bowl</li>
+                <li>Scrambled eggs</li>
+                <li>Yogurt Parfait</li>
+            </ul>
+            <image href="https://media.glamour.com/photos/56965034eaefd309768d5b37/master/w_1024,c_limit/health-fitness-blogs-vitamin-g-1015-jam-cancer_vg.jpg"/>
+            <image href="http://www.thenibble.com/reviews/main/cheese/yogurt/images/VeldaFarms230.jpg"/>
+        </context>
+    </taskbody>
+</task>
+

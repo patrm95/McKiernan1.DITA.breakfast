@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ud2_pjt_lz">
+    <title>Crispy Bacon and Roasted Asparagus with Baked Eggs</title>
+    <shortdesc>Get breakfast in minutes with this simple baked dish of bacon, asparagus and
+        eggs.</shortdesc>
+    <taskbody>
+        <context>Filling, fast and only one pan to clean up. Only requires a large oven, an oven
+            safe pan, and utensils, including a vegetable peeler.
+            <p>Ingredients</p> <image href= "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--626462_11.jpg?itok=XlWQ5r2u"></image>
+            <ul>
+                <li>4-6 rashers (a thin slice) of bacon</li>
+                <li>12-15 asparagus spears (about 350 grams)</li>
+                <li>1/2 teaspoon lemon zest</li>
+                <li>2-3 branches fresh thyme</li>
+                <li>1/2 teaspoon freshly ground black pepper</li>
+                <li>4 eggs</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 450 degrees Fahrenheit</cmd>
+            </step>
+            <step>
+                <cmd>Wash asparagus thoroughly, and use vegetable peeler to peel the bottom two
+                    thirds</cmd>
+            </step>
+            <step>
+                <cmd>In a 9x13 roasting pan or Pyrex, lay the rashers (slices) of bacon. Place in
+                    the oven and cook for about 8 minutes or until crispy.</cmd>
+            </step>
+            <step>
+                <cmd>Remove pan from oven and carefully transfer the bacon to a paper towel. Drain
+                    off most of the bacon fat, leaving about a tablespoon in the pan.</cmd>
+            </step>
+            <step>
+                <cmd>Add the asparagus to the same pan and shake it around gently to coat the
+                    vegetables in grease. Arrange asparagus in a single layer and sprinkle it with
+                    lemon zest, thyme leaves, and pepper</cmd>
+            </step>
+            <step>
+                <cmd>Roast asparagus for about 8 minutes or until it begins to soften. Remove pan
+                    from the oven and gently crack the four eggs on top of the asparagus. Return the
+                    dish to the oven and roast another 4-5 minutes or until eggs have reached the
+                    desired doneness. Return bacon to the pan.</cmd>
+            </step>
+            <step>
+                <cmd>Serve right away</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

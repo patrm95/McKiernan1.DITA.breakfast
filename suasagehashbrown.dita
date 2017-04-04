@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ndn_d4t_lz">
+    <title>Sausage Hash Brown Breakfast Casserole</title>
+    <shortdesc>Super easy sausage hash brown casserole, creates 4 servings, just toss in the microwave to reheat</shortdesc>
+    <taskbody>
+        <context>Requires a large skillet, a half casserole baking dish, measuring cups, and
+            utensils. <p>Ingredients</p>
+            <image
+                href="https://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/05/casserole12.jpg"/><u/>
+            <ul>
+                <li>1 pound hot pork sausage</li>
+                <li>1/2 (30 ounce) package frozen hash brown potatoes, thawed</li>
+                <li>1 cup shredded Cheddar cheese</li>
+                <li>1 1/2 teaspoons salt, divided</li>
+                <li>1/2 teaspoon ground black pepper</li>
+                <li>1 cup milk</li>
+                <li>3 large eggs, beaten</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat oven to 350 degrees F. Grease a half-casserole baking
+                    dish.</cmd>
+            </step>
+            <step>
+                <cmd>Heat a large skillet over medium-high heat. Cook and stir sausage in the hot
+                    skillet until browned and crumbly, 5 to 7 minutes; drain and discard
+                    grease.</cmd>
+            </step>
+            <step>
+                <cmd>Whisk milk, eggs, and remaining salt together in another bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Pour hash brown mixture into prepared baking dish; </cmd>
+            </step>
+            <step>
+                <cmd>Pour egg mixture evenly over hash brown mixture.</cmd>
+            </step>
+            <step>
+                <cmd>Bake in the preheated oven until bubbling and golden, about 45 minutes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

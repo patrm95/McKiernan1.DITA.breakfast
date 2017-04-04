@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_c5f_jc5_lz">
+    <title>Sausage Pancakes</title>
+    <shortdesc>Settle your craving for delicous pancakes with these mouthwatering sausage pancakes</shortdesc>
+    <taskbody>
+        <context>Requires only a large bowl, a whisk, a stope top, and a skillet
+            <p>Ingredients</p> <image href= "http://images.scrippsnetworks.com/up/tp/Scripps_-_Food_Category_Prod/905/759/0257686_630x355.jpg"></image>
+            <ul>
+                <li>2 cups all-purpose flour</li>
+                <li>2 tablespoons granulated sugar </li>
+                <li>3 teaspoons baking powder </li>
+                <li>1/2 teaspoon salt </li>
+                <li>2 cups buttermilk </li>
+                <li>2 large eggs, beaten </li>
+                <li>3 tablespoons unsalted butter, melted </li>
+                <li>2 tablespoons canola oil </li>
+                <li>Eight 2-inch-wide by 1/2-inch-thick sausage patties </li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 200 degrees F.</cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl, whisk to combine the flour, sugar, baking powder and salt. Whisk in the buttermilk, eggs and butter until combined.</cmd>
+            </step>
+            <step>
+                <cmd>Heat the oil over medium heat in a large nonstick skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Fry four of the sausage patties until cooked through, 2 to 3 minutes per side.</cmd>
+            </step>
+            <step>
+                <cmd>Pour a scoop of batter over each of the patties and cook until golden; flip and continue cooking until the batter is set, another 3 to 5 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Transfer to a platter and keep warm in the oven while you cook the remaining four sausage pancakes in the same manner.</cmd>
+            </step>
+            <step>
+                <cmd>Serve with maple syrup</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

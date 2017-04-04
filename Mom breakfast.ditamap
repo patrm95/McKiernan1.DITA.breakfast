@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breakfast Recipes for Mom</title>
+ <topicmeta>
+  <author>Patrick McKiernan</author>
+ </topicmeta>
+ <topicref href="cornbeefhash.dita" navtitle="Corn Beef Hash"/>
+ 
+ <topicref href="baconeggsandasparagus.dita" navtitle="Bacon Eggs and Asparagus"/>
+ 
+ <topicref href="suasagehashbrown.dita" navtitle="Sausage Hash Brown"></topicref>
+ 
+ <topicref href="sausagepancakes.dita" navtitle="Sausage Pancakes"/>
+ 
+ <topicref href="sides.dita" navtitle="Side Dishes"/>
+ 
+ <topicref href="drinks.dita" navtitle="Drinks"/>
+ 
+ <topicref href="saftey.dita" navtitle="Saftey"/>
+</map>
