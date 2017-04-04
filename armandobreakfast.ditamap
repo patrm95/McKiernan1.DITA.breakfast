@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breakfast Recipes for Armando</title>
+ <topicmeta>
+  <author>Patrick McKiernan</author>
+ </topicmeta>
+ <topicref href="whyeatvegan.dita"/>
+ <topicref href="avacadotoast.dita"/>
+ <topicref href="nuttyq.dita"/>
+ <topicref href="veganpancake.dita"/>
+ <topicref href="oatmeal.dita"/>
+ <topicref href="tofutaco.dita"/>
+ <topicref href="creamofwheat.dita"/>
+ <topicref href="vegansafety.dita"/>
+</map>

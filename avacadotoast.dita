@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hwx_ybv_lz">
+    <title>Toast with Refried Beans and Avacado</title>
+    <shortdesc>A delcious vegan recipe that only takes five minutes of your time</shortdesc>
+    <taskbody>
+        <context>The only tools this recipe requires is toaster and normal silverwear, such as a
+            fork and knife
+            <p>Ingredients</p> <image href="http://www.seriouseats.com/recipes/assets_c/2013/02/20130219-avocado-bean-toast-2-thumb-625xauto-309398.jpg"></image>
+            <ul>
+                <li>2 slices sandwich bread</li>
+                <li>1 cup homemade or store-bought vegan refried beans</li>
+                <li>1 avocado, thinly sliced</li>
+                <li>A few slivers white onion (users descretion)</li>
+                <li>Coarse sea salt</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Toast bread to desired level of doneness.</cmd>
+            </step>
+            <step>
+                <cmd>Top with refried beans and avocado (mash with a fork for desired consistency).
+                </cmd>
+            </step>
+            <step>
+                <cmd>Add slivered onions, sprinkle with salt, and serve.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

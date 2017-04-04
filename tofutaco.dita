@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_all_blv_lz">
+    <title>Tofu Breakfast Taco</title>
+    <shortdesc>Because everything tastes better in a taco.</shortdesc>
+    <taskbody>
+        <context>Only requires a non-stick pan, a stove top, normal kitchen utensils and
+            plates 
+            <image href="http://assets.eatingwell.com/sites/default/files/imagecache/standard/recipes/BR5607.JPG"/>
+            <p>Ingredients</p>
+            <ul>
+                <li>
+                    <p>1 (14-ounce) package extra-firm tofu, drained</p>
+                </li>
+                <li>
+                    <p>1/4 cup whole wheat flour</p>
+                </li>
+                <li>
+                    <p>1/4 cup nutritional yeast</p>
+                </li>
+                <li>
+                    <p>2 teaspoons onion powder</p>
+                </li>
+                <li>
+                    <p>1/2 teaspoon garlic powder</p>
+                </li>
+                <li>
+                    <p>1/4 teaspoon turmeric</p>
+                </li>
+                <li>
+                    <p>2 tablespoons Bragg Liquid Aminos</p>
+                </li>
+                <li>
+                    <p>8 corn tortillas, warmed</p>
+                </li>
+                <li>Salsa</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Drain tofu and place the block on a plate. Cover with another plate and weight
+                    down with an object of about 1 pound. Let stand 20 to 30 minutes to extract
+                    excess liquid.(pour off excess liquid)</cmd>
+            </step>
+            <step>
+                <cmd> Crumble tofu and place it in a bowl. Sprinkle with flour, yeast, onion powder,
+                    garlic powder and turmeric and toss. Sprinkle with liquid aminos and toss again.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Heat a large cast-iron skillet or nonstick pan over medium heat until hot.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Add tofu mixture and cook, stirring and scraping the bottom of the pan
+                    frequently with a spatula to prevent sticking, until tofu is browned and crisp
+                    in places. </cmd>
+            </step>
+            <step>
+                <cmd>Serve with the warmed tortillas, salsa and toppings of choice and let diners
+                    assemble their own tacos.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

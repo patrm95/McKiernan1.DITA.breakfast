@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mwm_fqv_lz">
+    <title>Saftey Instruction</title>
+    <shortdesc>not only are there hazzards when it comes to cooking, but there are also hazzards
+        that come with selecting ingredients</shortdesc>
+    <taskbody>
+        <context>this list will warn about the potential dangers that could arise when cooking vegan
+            recipes <image href="http://acmpost.com/wp-content/uploads/2013/08/17433554_s-203x203.jpg"/>
+            <p>Saftey steps</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Avoid touching hot surfaces, such as the stove top or hot pans </cmd>
+            </step>
+            <step>
+                <cmd>Cut or peel ingredients away from your body to avoid injury</cmd>
+            </step>
+            <step>
+                <cmd>Clean your cooking area, including your tools, such as pots and utensils </cmd>
+            </step>
+            <step>
+                <cmd>Most importantly know the ingredients you are using, as a vegan it is important
+                    to use specific ingredinets so make sure you know what you are cooking</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

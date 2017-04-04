@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hwf_qdv_lz">
+    <title>Warm and Nutty Cinnamon Quinoa</title>
+    <shortdesc>A stunning berry-studded breakfast Quinoa</shortdesc>
+    <taskbody>
+        <context>the tools needed for this simple 4 serving recipe are measuring cups, a stove top, and stove
+            save pots
+            <p>Ingredients</p> <image href="http://www.101cookbooks.com/mt-static/images/food/berry_quinoa_recipe.jpg"/>
+            <ul>
+                <li>1 cup organic 1% low fat milk</li>
+                <li>1 cup water</li>
+                <li>1 cup organic quinoa,</li>
+                <li>2 cups fresh blackberries, organic preferred</li>
+                <li>1/2 teaspoon ground cinnamon</li>
+                <li>1/3 cup chopped pecans, toasted</li>
+                <li>4 teaspoons organic agave nectar</li>
+            </ul>
+            <p>Recipe</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Combine milk, water and quinoa in a medium saucepan.</cmd>
+            </step>
+            <step>
+                <cmd>Bring to a boil over high heat. Reduce heat to medium-low; cover and simmer 15 minutes or until most of the liquid is absorbed.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off heat; let stand covered 5 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in blackberries and cinnamon; transfer to four bowls and top with pecans. </cmd>
+            </step>
+            <step>
+                <cmd>Drizzle 1 teaspoon agave nectar over each serving.</cmd>
+            </step>
+            <step>
+                <cmd>While the quinoa cooks, roast the pecans in a 350F degree toaster oven for 5 to 6 minutes or in a dry skillet over medium heat for about 3 minutes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

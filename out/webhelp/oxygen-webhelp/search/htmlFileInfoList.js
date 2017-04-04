@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "avacadotoast.html@@@Toast with Refried Beans and Avacado@@@A delcious vegan recipe that only takes five minutes of your time...";
+fil["1"]= "creamofwheat.html@@@Indian Cream of Wheat@@@Might not look like much, but its a great way to start the day...";
+fil["2"]= "nuttyq.html@@@Warm and Nutty Cinnamon Quinoa@@@A stunning berry-studded breakfast Quinoa...";
+fil["3"]= "oatmeal.html@@@Pan-Seared Oatmeal with Blueberries@@@Dont overlook the tastiness of good ol&apos; oatmeal...";
+fil["4"]= "tofutaco.html@@@Tofu Breakfast Taco@@@Because everything tastes better in a taco...";
+fil["5"]= "veganpancake.html@@@Vegan Pancakes with Tofu Sausage@@@As a vegan option this recipe requires making the pancakes and vegan sausage seperately...";
+fil["6"]= "vegansafety.html@@@Saftey Instruction@@@not only are there hazzards when it comes to cooking, but there are also hazzards that come with selecting ingredients...";
+fil["7"]= "whyeatvegan.html@@@Why Eat Vegan@@@Health benefits when it comes to eating vegan...";
